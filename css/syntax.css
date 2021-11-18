@@ -8,5 +8,9 @@ color: blue;
 
 p{
 color: green;
+}
 
+a{
+    color: yellow;
+    text-decoration: underline;
 }
