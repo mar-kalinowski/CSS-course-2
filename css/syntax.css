@@ -1,4 +1,3 @@
-#sub-content p{
-color: red;
-
+#main-content > p{
+    color: red;
 }
