@@ -1,3 +1,12 @@
-#all-articles h2 + p{
-    color: green;
+span[class-="deck"]{
+    color: purple;
 }
+
+div[id]{
+    background-color: gray;
+}
+
+a[href^="http"]{
+    color: pink;
+}
+
